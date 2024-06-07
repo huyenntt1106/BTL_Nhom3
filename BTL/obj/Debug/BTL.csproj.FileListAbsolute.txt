@@ -1,0 +1,108 @@
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Năm 3\.NET\BTL\BTL\bin\Debug\BTL.exe.config
+D:\Năm 3\.NET\BTL\BTL\bin\Debug\BTL.exe
+D:\Năm 3\.NET\BTL\BTL\bin\Debug\BTL.pdb
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.exe
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.pdb
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.frmTraSach.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoUaThich.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmNhanVien.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmKhachHang.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmSachTruyen.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.TrangChu.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoDoanhThu.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoThueSach.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.DangNhap.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.DangKy.resources
+D:\Năm 3\.NET\BTL\BTL\obj\Debug\BTL.Forms.frmThueSach.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\Downloads\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\Downloads\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoDoanhThu.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoThueSach.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoUaThich.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.DangKy.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.DangNhap.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmKhachHang.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmNhanVien.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmSachTruyen.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmThueSach.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.TrangChu.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.frmTraSach.resources
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\Downloads\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoDoanhThu.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoThueSach.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoUaThich.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.DangKy.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.DangNhap.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmKhachHang.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmNhanVien.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmSachTruyen.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmThueSach.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.TrangChu.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.frmTraSach.resources
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Thu Huyen\Downloads\BTL\BTL\BTL\obj\Debug\BTL.Forms.frmTimKiemThue.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\bin\Debug\BTL.exe.config
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\bin\Debug\BTL.exe
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\bin\Debug\BTL.pdb
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoDoanhThu.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoThueSach.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmBaoCaoUaThich.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.DangKy.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.DangNhap.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmKhachHang.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmNhanVien.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmSachTruyen.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmThueSach.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.frmTimKiemThue.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Forms.TrangChu.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.frmTraSach.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.exe
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL\BTL\obj\Debug\BTL.pdb
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\bin\Debug\BTL.exe.config
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\bin\Debug\BTL.exe
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\bin\Debug\BTL.pdb
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmBaoCaoDoanhThu.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmBaoCaoThueSach.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmBaoCaoUaThich.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.DangKy.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.DangNhap.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmKhachHang.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmNhanVien.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmSachTruyen.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmThueSach.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.frmTimKiemThue.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Forms.TrangChu.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.frmTraSach.resources
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.exe
+D:\Năm 3\.NET\Tổng kết BTL\BTL_final\BTL_final\BTL\obj\Debug\BTL.pdb
