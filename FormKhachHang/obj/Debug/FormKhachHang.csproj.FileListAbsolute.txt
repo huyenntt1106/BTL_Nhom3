@@ -1,0 +1,10 @@
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\bin\Debug\FormKhachHang.exe.config
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\bin\Debug\FormKhachHang.exe
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\bin\Debug\FormKhachHang.pdb
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.csproj.AssemblyReference.cache
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.Form1.resources
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.Properties.Resources.resources
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.csproj.GenerateResource.cache
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.exe
+D:\HỌC TẬP\NĂM 3\net\FormKhachHang\FormKhachHang\obj\Debug\FormKhachHang.pdb
