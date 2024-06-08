@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormNhanVien", "FormNhanVien\FormNhanVien.csproj", "{682C0A91-E3C9-4CA0-9AA9-3AB45E2CD4A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682C0A91-E3C9-4CA0-9AA9-3AB45E2CD4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682C0A91-E3C9-4CA0-9AA9-3AB45E2CD4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682C0A91-E3C9-4CA0-9AA9-3AB45E2CD4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682C0A91-E3C9-4CA0-9AA9-3AB45E2CD4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E8CCC9-69F1-462A-9B1C-73AABD27F3AC}
+	EndGlobalSection
+EndGlobal

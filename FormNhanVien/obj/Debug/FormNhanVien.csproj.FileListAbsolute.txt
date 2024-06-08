@@ -1,0 +1,10 @@
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\bin\Debug\FormNhanVien.exe.config
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\bin\Debug\FormNhanVien.exe
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\bin\Debug\FormNhanVien.pdb
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.csproj.AssemblyReference.cache
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.Form1.resources
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.Properties.Resources.resources
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.csproj.GenerateResource.cache
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.exe
+D:\HỌC TẬP\NĂM 3\net\FormNhanVien\FormNhanVien\obj\Debug\FormNhanVien.pdb
