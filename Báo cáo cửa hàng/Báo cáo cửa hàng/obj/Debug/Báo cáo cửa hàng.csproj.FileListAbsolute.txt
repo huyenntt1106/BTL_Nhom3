@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\bin\Debug\Báo cáo cửa hàng.exe.config
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\bin\Debug\Báo cáo cửa hàng.exe
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\bin\Debug\Báo cáo cửa hàng.pdb
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo cáo cửa hàng.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo cáo cửa hàng.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo_cáo_cửa_hàng.Báo_cáo.BaoCaoThueSach.resources
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo_cáo_cửa_hàng.Properties.Resources.resources
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo cáo cửa hàng.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo cáo cửa hàng.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo cáo cửa hàng.exe
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo cáo cửa hàng.pdb
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo_cáo_cửa_hàng.Báo_cáo.BaoCao.resources
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo_cáo_cửa_hàng.BaoCaoUaThich.resources
+C:\Users\asus\Desktop\C#\Báo cáo cửa hàng\Báo cáo cửa hàng\obj\Debug\Báo_cáo_cửa_hàng.Báo_cáo.BaoCaoDoanhThu.resources
