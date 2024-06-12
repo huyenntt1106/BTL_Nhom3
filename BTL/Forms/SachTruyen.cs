@@ -19,6 +19,11 @@ namespace BTL.Forms
 
         private void frmSachTruyen_Load(object sender, EventArgs e)
         {
+            Class.Functions.ketnoi();
+            txtMaSach.Enabled = false;
+            Load_DataGridView();
+            Class.Functions.FillCombo1("SELECT MaLoaiSach, TenLoaiSach FROM tblLoaiSach", cboMaLoaiSach, "MaLoaiSach", "TenLoaiSach");
+            Class.Functions.FillCombo1("SELECT MaLinhVuc, TenLinhVuc FROM tblLinhVuc", cboMaLinhVuc, "MaLinhVuc", "TenLinhVuc");
             Class.Functions.FillCombo1("SELECT MaTacGia, TenTacGia FROM tblTacGia", cboMaTacGia, "MaTacGia", "TenTacGia");
             Class.Functions.FillCombo1("SELECT MaNXB, TenNXB FROM tblNXB", cboMaNhaXuatBan, "MaNXB", "TenNXB");
             Class.Functions.FillCombo1("SELECT MaNgonNgu, TenNgonNgu FROM tblNgonNgu", cboMaNgonNgu, "MaNgonNgu", "TenNgonNgu");
